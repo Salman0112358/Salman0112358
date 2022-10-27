@@ -10,8 +10,9 @@ It is a very exciting time to be a developer and a technology enthusiast. I am c
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salman0112358&show_icons=true&theme=midnight-purple&card_width=550)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=salman0112358&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=salman0112358&theme=midnight-purple)]
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman0112358&layout=compact&theme=midnight-purple&card_width=500)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=salman0112358&theme=high-contrast)]
 ![](https://komarev.com/ghpvc/?username=salman0112358&style=flat-square&color=blueviolet)
 
 
