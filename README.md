@@ -6,7 +6,7 @@ I am a full-stack developer and the content of this Github page is an expression
 
 It is a very exciting time to be a developer and a technology enthusiast. I am currently immersed in the world of AI image generation and exploring the latest tools and developments it has to offer. In fact, I was able to generate my current professional LinkedIn profile picture from a stable diffusion model that I trained with images of myself. These tools are becoming better every day and more accessible and I would strongly recommend anyone interested to start exploring this emerging avenue of AI.
 
-<img src="https://www.behance.net/gallery/28262707/Desk-Animation/modules/183313535"/>
+![](https://github.com/Salman0112358/Salman0112358/blob/main/Assets/working.gif)
 
 <!-- Here are some ideas to get you started:
 
