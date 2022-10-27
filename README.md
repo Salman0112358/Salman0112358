@@ -21,5 +21,7 @@ It is a very exciting time to be a developer and a technology enthusiast. I am c
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
 <br />
 
+<br />
+<hr>
 
 <img src="./Assets/working.gif"/>
