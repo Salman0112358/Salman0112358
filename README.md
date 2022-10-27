@@ -8,6 +8,8 @@ It is a very exciting time to be a developer and a technology enthusiast. I am c
 
 <img src="./Assets/working.gif"/>
 
+
+
 ### 🛠️ Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -20,3 +22,7 @@ It is a very exciting time to be a developer and a technology enthusiast. I am c
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968866.png" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://community.infoblox.com/t5/image/serverpage/image-id/2195iA290BF7E3BA6064D/image-size/large/is-moderation-mode/true?v=v2&px=999" />
 <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman0112358&layout=compact)]
+
+![](https://komarev.com/ghpvc/?username=maemastersdev&color=ff69b4)
