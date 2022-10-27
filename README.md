@@ -21,32 +21,32 @@ It is a very exciting time to be a developer and a technology enthusiast. I am c
   <tbody>
   <tbody align="center">
     <tr>
-      <td><a href="https://c5c2-study-resources.netlify.app"><b>Study Resource Catalog App 📖<b></a></td>
+      <td><a href="https://c5c2-study-resources.netlify.app" target="_blank"><b>Study Resource Catalog App 📖<b></a></td>
       <td><a href="https://github.com/maemastersdev/C5C2-Study-Resources-FrontEnd"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/maemastersdev/C5C2-Study-Resources-Backend"><b>PostgreSQL Express Node.js</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
     <tr>
-      <td><a href="https://paste-bin-blue-whale-projects.netlify.app/"><b>Paste Bin App 🗑️<b></a></td>
+      <td><a href="https://paste-bin-blue-whale-projects.netlify.app/" target="_blank"><b>Paste Bin App 🗑️<b></a></td>
       <td><a href="https://github.com/Salman0112358/Paste-Bin-Project-W10-Niamh-Salman-Frontend"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/Salman0112358/Paste-Bin-Project-W10-Niamh-Salman-Backend"><b>PostgreSQL Express Node.js</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
      <tr>
-      <td><a href="addlinkhere"><b>Dog Voting App 🐕<b></a></td>
+      <td><a href="https://favourite-dog-picker.netlify.app/" target="_blank"><b>Dog Voting App 🐕<b></a></td>
       <td><a href="https://github.com/Salman0112358/C5B3-Dog-Voting-App-Front-End"><b>React, TypeScript</b></a></td>
       <td><a href="https://github.com/Salman0112358/C5B3-Dog-Voting-App-Back-End"><b>PostgreSQL Express Node.js</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
       <tr>
-      <td><a href="addlinkhere"><b>Salman's Flix Movie Site 🎥<b></a></td>
+      <td><a href="https://salman-flix-tailwind-project.vercel.app/" target="_blank"><b>Salman's Flix Movie Site 🎥<b></a></td>
       <td><a href="https://github.com/Salman0112358/nextflix-tailwind-project"><b>React, TypeScript</b></a></td>
       <td><a href="#"><b>Firebase</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
     </tr>
      </tr>
       <tr>
-      <td><a href="https://personal-next-js-blog.vercel.app/"><b> Personal Blog Site 📝<b></a></td>
+      <td><a href="https://personal-next-js-blog.vercel.app/" target="_blank"><b> Personal Blog Site 📝<b></a></td>
       <td><a href="https://github.com/Salman0112358/Next-Js-Blog"><b>React, JavaScript</b></a></td>
       <td><a href="#"><b>HyGraph CMS</b></a></td>
       <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
