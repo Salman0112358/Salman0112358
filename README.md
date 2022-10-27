@@ -6,8 +6,58 @@ I am a full-stack developer and the content of this Github page is an expression
 
 It is a very exciting time to be a developer and a technology enthusiast. I am currently immersed in the world of AI image generation and exploring the latest tools and developments it has to offer. In fact, I was able to generate my current professional LinkedIn profile picture from a stable diffusion model that I trained with images of myself. These tools are becoming better every day and more accessible and I would strongly recommend anyone interested to start exploring this emerging avenue of AI.
 
-## 💻 GitHub Summary
+## 🏗️ Here are some of my featured projects
+<hr>
 
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Frontend</b></td>
+      <td><b>Backend</b></td>
+      <!--<td><b>Documentation</b></td>-->
+    </tr>
+  </thead>
+  <tbody>
+  <tbody align="center">
+    <tr>
+      <td><a href="https://c5c2-study-resources.netlify.app"><b>Study Resource Catalog App 📖<b></a></td>
+      <td><a href="https://github.com/maemastersdev/C5C2-Study-Resources-FrontEnd"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/maemastersdev/C5C2-Study-Resources-Backend"><b>PostgreSQL Express Node.js</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+    <tr>
+      <td><a href="https://paste-bin-blue-whale-projects.netlify.app/"><b>Paste Bin App 🗑️<b></a></td>
+      <td><a href="https://github.com/Salman0112358/Paste-Bin-Project-W10-Niamh-Salman-Frontend"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/Salman0112358/Paste-Bin-Project-W10-Niamh-Salman-Backend"><b>PostgreSQL Express Node.js</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+     <tr>
+      <td><a href="addlinkhere"><b>Dog Voting App 🐕<b></a></td>
+      <td><a href="https://github.com/Salman0112358/C5B3-Dog-Voting-App-Front-End"><b>React, TypeScript</b></a></td>
+      <td><a href="https://github.com/Salman0112358/C5B3-Dog-Voting-App-Back-End"><b>PostgreSQL Express Node.js</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+      <tr>
+      <td><a href="addlinkhere"><b>Salman's Flix Movie Site 🎥<b></a></td>
+      <td><a href="https://github.com/Salman0112358/nextflix-tailwind-project"><b>React, TypeScript</b></a></td>
+      <td><a href="#"><b>Firebase</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+     </tr>
+      <tr>
+      <td><a href="https://personal-next-js-blog.vercel.app/"><b> Personal Blog Site 📝<b></a></td>
+      <td><a href="https://github.com/Salman0112358/Next-Js-Blog"><b>React, JavaScript</b></a></td>
+      <td><a href="#"><b>HyGraph CMS</b></a></td>
+      <!--<td><a href="addlinkhere"><b>Documentation</b></a></td>-->
+    </tr>
+   
+   
+  </tbody>
+</table>
+
+
+## 💻 GitHub Summary
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salman0112358&show_icons=true&theme=midnight-purple&card_width=550)
