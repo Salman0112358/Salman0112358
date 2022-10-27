@@ -9,7 +9,7 @@ It is a very exciting time to be a developer and a technology enthusiast. I am c
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salman0112358&show_icons=true&theme=midnight-purple&card_width=500)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salman0112358&show_icons=true&theme=midnight-purple&card_width=550)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman0112358&layout=compact&theme=midnight-purple&card_width=500)
 <br/>
 ![](https://komarev.com/ghpvc/?username=salman0112358&style=flat-square&color=blueviolet)
