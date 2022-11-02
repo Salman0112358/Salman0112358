@@ -99,11 +99,6 @@ It is a very exciting time to be a developer and a technology enthusiast. I am c
 ### AI Art Instagram : <a href="https://www.instagram.com/bluewhaleprojects/?next=%2F">bluewhaleprojects</a>
 
 
-## ⚙️ My Contributions
-<hr>
-
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=salman0112358&theme=high-contrast)
-
 ## ✉️ Contact Me
 <hr>
 
