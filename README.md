@@ -72,7 +72,7 @@ It is a very exciting time to be a developer and a technology enthusiast. I am c
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman0112358&layout=compact&theme=midnight-purple&card_width=500)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman0112358&layout=compact&theme=midnight-purple&card_width=500)
 
 
 ## 🛠️ Languages and technologies I have used
