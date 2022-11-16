@@ -68,11 +68,11 @@ It is a very exciting time to be a developer and a technology enthusiast. I am c
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=salman0112358&theme=midnight-purple)
 
-<!-- ## 🧰 What I've been coding with
+## 🧰 What I've been coding with
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman0112358&layout=compact&theme=midnight-purple&card_width=500)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salman0112358&layout=compact&theme=midnight-purple&card_width=500)]
 
 
 ## 🛠️ Languages and technologies I have used
